@@ -12,6 +12,8 @@ Intermediate/
 Saved/
 DerivedDataCache/
 
+/Plugins/
+
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
 Content/**/_BuiltData.uasset
